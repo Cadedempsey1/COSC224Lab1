@@ -1,8 +1,8 @@
 # COSC224Lab1
 
-five branches:
-1. form
-2. header
-3. footer
-4. css
-5. client side validation
+Created by:
+Daemon Lewis #300318324
+Cade Dempsey #300328842
+
+We created a simple registration form with a "header" and "footer"
+
